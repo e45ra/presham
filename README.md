@@ -28,6 +28,14 @@ Presham is a high-precision astronomical calculator that predicts the exact mome
 
 ### Requirements
 - Python 3.x
+
+(Optional for skyfield) Create a virtual environment
+```bash
+python3 -m venv nowruz_env
+source nowruz_env/bin/activate
+
+```
+
 - Required packages:
   ```bash
   pip install skyfield
@@ -70,6 +78,7 @@ The program displays:
 - Accurate Persian calendar conversion algorithms
 - Tehran coordinates (35.6892°N, 51.3890°E) for precise calculations
 
+The calculation is very accurate — maybe it’s off by 2 seconds.
 </div>
 
 ---

@@ -79,6 +79,7 @@ The program displays:
 - Tehran coordinates (35.6892°N, 51.3890°E) for precise calculations
 
 The calculation is very accurate — maybe it’s off by 2 seconds.
+this project is open source and anyone can use this without naming the project and algorithems to them selfs
 </div>
 
 ---
